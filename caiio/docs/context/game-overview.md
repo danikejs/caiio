@@ -21,5 +21,11 @@
 	- especiais: "Aprender a utilizar bolas especiais com propriedades distintas."
 	- estado: PROVISÓRIO
 	- origem: "Aluno: descreveu ações principais (2026-09-09); necessita definição observável de janelas de timing e magnitudes de efeito."
+	- estado: FECHADO
+	- origem: "Aluno: descreveu ações principais (2026-09-09); janela de timing definida como 'Habilidade' (±100 ms) e foco em bolas especiais/efeitos)."
+	- timing_rebater: "Habilidade — Janela estreita: ±100 ms (foco em skill e profundidade competitiva)."
+	- especiais_inspiracao: "Pimbolas — o aluno solicitou comportamento similar ao jogo 'Pimbolas'."
+	- especiais_estado: PROVISÓRIO
+	- especiais_pendencias: "Confirmar lista de tipos de bolas especiais, seus efeitos observáveis, duração e condições de uso."
 
 > Decisão fechada com justificativa fornecida pelo aluno.
